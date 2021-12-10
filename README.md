@@ -7,6 +7,6 @@ A aplicação cliente foi desenvolvida em HTML, CSS(Bootstrap) e JavaScript.
 
 O banco de dados foi criado utilizando PostgreSQL, e modificado usando pgAdmin.
 
-Para execução do programa, navegue ate a pasta "desafio" e execute o comando ./gradlew bootRun
+Para execução do programa, clone este repositorio e navegue ate a pasta principal(a que tem o arquivo gradlew). Em seguida, execute o comando ./gradlew bootRun
 
-Para acessar a aplicação cliente, abra o arquivo index.html no seu navegador.
+Depois, para acessar a aplicação cliente basta abrir o arquivo index.html no seu navegador.
