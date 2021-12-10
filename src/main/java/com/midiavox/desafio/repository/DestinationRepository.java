@@ -2,8 +2,6 @@ package com.midiavox.desafio.repository;
 
 import java.util.List;
 
-import javax.persistence.EntityManagerFactory;
-
 import com.midiavox.desafio.Destination;
 
 import org.springframework.data.jpa.repository.Query;
